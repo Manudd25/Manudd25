@@ -4,5 +4,5 @@
 - 👯 I’m looking to collaborate on GitHub
 - 💬 Ask me about ... anything!
 - 📫 How to reach me: didariomanuela@gmail.com
-- ⚡ Fun fact: I have just started 😆
+
 
