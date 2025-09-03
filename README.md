@@ -7,7 +7,7 @@ Junior Web Developer
 🌱 I’m currently developing new skills
 
 * 🌍  I'm based in Berlin, Germany
-* 🖥️  See my portfolio at [manueladidario.onrender.com/]([http://manueladidario.onrender.com/](https://myportfoliomdd.z6.web.core.windows.net/))
+* 🖥️  See my portfolio at [https://myportfoliomdd.z6.web.core.windows.net/](https://myportfoliomdd.z6.web.core.windows.net)
 * ✉️  You can contact me at [didariomanuela@gmail.com](mailto:didariomanuela@gmail.com)
 * 🧠  I'm currently learning Python
 * 👥  I'm looking to collaborate on interesting project :)
