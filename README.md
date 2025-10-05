@@ -9,7 +9,7 @@ Junior Web Developer
 * 🌍  I'm based in Berlin, Germany
 * 🖥️  See my portfolio at [manueladidario.z6.web.core.windows.net](https://manueladidario.z6.web.core.windows.net/)
 * ✉️  You can contact me at [didariomanuela@gmail.com](mailto:didariomanuela@gmail.com)
-* 🧠  I'm currently learning Python
+* 🧠  I'm currently learning Vue and Python
 * 👥  I'm looking to collaborate on interesting project :)
 
 <p align="left">
