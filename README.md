@@ -1,5 +1,6 @@
 # 💫 About Me:
-🌱 I’m currently developing new skills<br><br>🌍 I'm based in Berlin, Germany<br>🖥️ See my portfolio at Website www.manueladidario.com<br>✉️ You can contact me at didariomanuela@gmail.com<br>🧠 I keep learning something new every day<br>👥 I'm looking to collaborate on interesting projects :)
+🌱 I’m currently developing new skills<br><br>🌍 I'm based in Berlin, Germany<br>🖥️ See my portfolio at Website www.manueladidario.com<br>✉️ You can contact me at didariomanuela@gmail.com<br>🧠 I keep learning something new every day<br>👥 I'm looking to collaborate on interesting projects :) 
+If you want to have a look at a particular project, please get in touch. 
 
 
 ## 🌐 Socials:
